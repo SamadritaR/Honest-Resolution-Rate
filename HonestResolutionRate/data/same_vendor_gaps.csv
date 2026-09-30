@@ -1,6 +1,0 @@
-Vendor,Customer,Number A label,Number A,Number B label,Number B,"Gap (A minus B, points)",What it shows
-Maven AGI,Papaya,Answered autonomously,0.9,First contact resolution,0.7,20,"Answering and resolving are reported separately inside one story, then the higher one feeds the headline."
-Maven AGI,Mastermind,Live chat questions answered,0.93,Support page inquiries resolved autonomously,0.68,25,The 93% headline is an answer rate; the same customer's resolution figure is 25 points lower.
-Regal,eHealth vs company claim,"Containment (eHealth, homepage)",0.97,"Resolution without handoff (company, press)",0.995,-2.5,"A resolution rate above a containment rate is only possible if they measure different scopes, which no public definition explains."
-Replicant,DoorDash,Success rate (Replicant blog),0.94,Resolution rate (partner page),0.94,0,"Same number, two labels. Zero gap is the point: the label changes, the measurement does not."
-Avoca,Top Flight Electric,Booking rate in stat block,0.75,Booking rate in page text,0.7,5,"Small, but the same page reports two different end values and two different starting values (5% and 10%)."

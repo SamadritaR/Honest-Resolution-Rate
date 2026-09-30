@@ -1,7 +1,0 @@
-Containment (no transfer):          81.6%
-Honest Resolution Rate:             58.5%
-Gap:                                23.1 points
-  ended in silence, counted as contained: 130
-  voided by repeat contact:               169
-
-HRR 59% | n = 1,382 AI conversations | 2026-07-01 to 2026-10-04 | chat and voice, 80% of total volume | 7 day same intent window | judged by rules on system of record | AI only
